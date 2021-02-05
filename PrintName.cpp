@@ -7,5 +7,5 @@ void printName(string name){
 }
 
 int main(){
-    printName("Jarrett Ryan Elenbaas");
+    printName("Jarrett R Elenbaas");
 }
